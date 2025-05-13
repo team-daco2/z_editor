@@ -110,7 +110,7 @@
 	{#if editor}
 		<!-- Toolbar -->
 		<div
-			class="flex flex-wrap md:flex-nowrap gap-x-5 gap-y-2 items-center px-2 py-2 border border-gray-300 rounded-t-md bg-white shadow-[0_2px_6px_rgba(0,0,0,0.08)] relative z-10"
+			class="flex flex-wrap gap-x-5 gap-y-2 items-center px-2 py-2 border border-gray-300 rounded-t-md bg-white shadow-[0_2px_6px_rgba(0,0,0,0.08)] relative z-10"
 		>
 			<div class="flex gap-1 items-center">
 				<Button
